@@ -1,4 +1,4 @@
-﻿# Heart-disease-predictor
+
 # Heart Disease Predictor 💓🧠
 
 A full-stack web app that predicts the likelihood of heart disease based on user health inputs using machine learning.
