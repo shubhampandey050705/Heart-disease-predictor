@@ -27,7 +27,7 @@ A full-stack web app that predicts the likelihood of heart disease based on user
 # Backend
 cd backend
 pip install -r requirements.txt
-gactivate your virtual enviorment
+get activate your virtual enviorment
 then run python app.py
 
 # Frontend
